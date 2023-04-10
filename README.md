@@ -1,2 +1,2 @@
-# MailG-nderme
+# MailGonderme
 c# ile mail gönderme uygulaması
