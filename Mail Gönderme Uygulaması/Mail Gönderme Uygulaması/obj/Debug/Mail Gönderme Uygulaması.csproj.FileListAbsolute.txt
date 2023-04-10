@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\Mail Gönderme Uygulaması\Mail Gönderme Uygulaması\bin\Debug\Mail Gönderme Uygulaması.exe.config
+C:\Users\USER\Desktop\Mail Gönderme Uygulaması\Mail Gönderme Uygulaması\bin\Debug\Mail Gönderme Uygulaması.exe
+C:\Users\USER\Desktop\Mail Gönderme Uygulaması\Mail Gönderme Uygulaması\bin\Debug\Mail Gönderme Uygulaması.pdb
+C:\Users\USER\Desktop\Mail Gönderme Uygulaması\Mail Gönderme Uygulaması\obj\Debug\Mail Gönderme Uygulaması.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Mail Gönderme Uygulaması\Mail Gönderme Uygulaması\obj\Debug\Mail Gönderme Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Mail Gönderme Uygulaması\Mail Gönderme Uygulaması\obj\Debug\Mail_Gönderme_Uygulaması.Form1.resources
+C:\Users\USER\Desktop\Mail Gönderme Uygulaması\Mail Gönderme Uygulaması\obj\Debug\Mail_Gönderme_Uygulaması.Properties.Resources.resources
+C:\Users\USER\Desktop\Mail Gönderme Uygulaması\Mail Gönderme Uygulaması\obj\Debug\Mail Gönderme Uygulaması.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Mail Gönderme Uygulaması\Mail Gönderme Uygulaması\obj\Debug\Mail Gönderme Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Mail Gönderme Uygulaması\Mail Gönderme Uygulaması\obj\Debug\Mail Gönderme Uygulaması.exe
+C:\Users\USER\Desktop\Mail Gönderme Uygulaması\Mail Gönderme Uygulaması\obj\Debug\Mail Gönderme Uygulaması.pdb
